@@ -1,4 +1,4 @@
-# Create MySQL database
+# Create MySQL Database
 Creating a MySQL Database server on Azure
 
 - Login with your students email at [portal.azure.com] (https://portal.azure.com)
